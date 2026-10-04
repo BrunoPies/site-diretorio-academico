@@ -1,9 +1,13 @@
 # Bolsas na Europa para licenciatura em Letras/Alemão
 
-Varredura feita em **4 de outubro de 2026**.
-Perfil considerado: licenciatura em Letras/Alemão em curso no Brasil, professor de alemão em
-exercício em escola com DSD, alemão em faixa C1, aberto a intercâmbio de um ou dois semestres
-e a graduação completa, prioridade para Alemanha, Áustria, Suíça e Portugal.
+Varredura feita em **4 de outubro de 2026**, revista no mesmo dia com os dados da instituição e
+com a situação real do DSD II.
+
+Perfil considerado: licenciatura em **Letras Português e Alemão** no **Instituto Superior de
+Educação Ivoti, o ISEI**, dentro do **IFPLA**; professor de alemão em exercício; **DSD II já
+prestado, mas resultado e diploma previstos apenas para meados do primeiro semestre de 2027**;
+aberto a intercâmbio de um ou dois semestres e a graduação completa; prioridade para Alemanha,
+Áustria, Suíça e Portugal.
 
 ## Como ler o status de cada data
 
@@ -54,11 +58,22 @@ de três a quatro semanas, numa universidade alemã ou instituição de curso co
 - **Quando o curso acontece:** entre junho e setembro de 2027.
 - **Quem pode:** estudantes de graduação e de mestrado de todas as áreas. Graduação precisa
   ter **no mínimo dois anos acadêmicos concluídos no início da bolsa**. `[confirmado]`
+- **Nível de alemão exigido:** **B1 no mínimo** para candidatos das áreas de humanidades, que é a
+  tua. Fora das humanidades, o mínimo é A2. `[confirmado]`
+- **Comprovações de idioma aceitas:** onSET-Deutsch, TestDaF, Goethe-Zertifikat, **DSD**, DSH,
+  telc Deutsch, ÖSD-Zertifikat, e Abitur apenas para curso de língua de especialidade. Onde não há
+  teste onDaF, o **DAAD-Sprachnachweis**, um formulário preenchido por examinador, pode ser aceito.
+  `[confirmado]`
+- **Validade do comprovante:** não pode ter mais de **um ano** na data da candidatura. A exceção:
+  comprovante de **B2 ou acima**, ou TDN4 em todas as partes do TestDaF, vale até **dois anos**.
+  `[confirmado]`
 - **Prazo:** **30 de outubro, 23:59 CET**, todos os anos. Inscrições abrem em 1º de setembro.
   Para o verão de 2027, portanto: aberto desde 01/09/2026, fecha em **30/10/2026**. `[confirmado]`
 - **Documentos:** formulário online no portal DAAD, currículo tabular em alemão, carta de
-  motivação em alemão, e histórico com as notas individuais de todas as provas dos últimos dois
-  anos consecutivos, no original e com tradução para alemão ou inglês. `[confirmado]`
+  motivação em alemão, histórico com as notas individuais de todas as provas dos últimos dois
+  anos consecutivos, no original e com tradução para alemão ou inglês, **certificado de conclusão
+  do ensino médio com notas ou o último diploma de ensino superior**, e os **comprovantes de
+  idioma**. `[confirmado]`
 - **Critérios de seleção:** desempenho acadêmico anterior e uma motivação convincente quanto
   aos estudos e aos planos acadêmicos seguintes. `[confirmado]`
 - **Valor:** não confirmado nesta varredura. Conferir na ficha do programa.
@@ -67,9 +82,15 @@ de três a quatro semanas, numa universidade alemã ou instituição de curso co
   [formulário](https://www2.daad.de/medien/deutschland/stipendien/formulare/hsk_antragsformular.pdf) ·
   [DAAD Brasil](https://www.daad-brasil.org/pt/bolsas/)
 
-**Ação:** o gargalo é o histórico traduzido, não a carta. Pedir o histórico dos últimos dois anos
-na secretaria da faculdade ainda esta semana. A carta de motivação e o currículo em alemão são
-teus de escrever, e são o critério que decide.
+**Ação, revista depois de saber que o DSD II não chega a tempo:** a comprovação de idioma desta
+inscrição precisa vir de outro lugar, e há duas saídas, em ordem de custo. A primeira é o
+**DAAD-Sprachnachweis**, formulário preenchido por examinador qualificado, e o IFPLA tem
+professores que o são. A segunda é o **onSET-Deutsch**, que custa **R$ 125,00** no CCBA e é
+aplicado em julho e outubro. `[secundário]` Confirmar com o Goethe de Porto Alegre se há data de
+onSET antes de 30 de outubro e se o DAAD-Sprachnachweis é aceito para candidatura feita no Brasil.
+
+O outro gargalo é o histórico traduzido, não a carta. A carta de motivação e o currículo em alemão
+são teus de escrever, e são o critério que decide.
 
 ## 1.2 Goethe-Institut, bolsas de aperfeiçoamento para professores de alemão
 
@@ -295,8 +316,10 @@ nenhum, na condição de **Gaststudent**, **Austauschstudent**, **non-degree stu
   convênio. Documentação mais extensa, **comprovação de idioma mais formalizada**, prazos mais
   rígidos e antecedência longa de candidatura. `[confirmado]`
 - **Por que, no teu caso, o preço é menor do que para a maioria:** o item que mais derruba
-  candidatura de freemover é exatamente a comprovação formal de idioma, e o teu DSD II já resolve
-  isso, com a mesma validade do TestDaF.
+  candidatura de freemover é exatamente a comprovação formal de idioma, e o teu DSD II resolve
+  isso com a mesma validade do TestDaF, **a partir de meados de 2027**, quando o diploma chegar.
+  Isso coloca a candidatura de freemover na janela de julho de 2027, junto com o resto, como está
+  na seção 5.1.
 - **Custo:** universidade pública alemã não cobra mensalidade, apenas a contribuição semestral.
   O custo real é o visto, portanto o Sperrkonto da seção 5.4.
 - **Prazos:** variam por universidade e não há data nacional. Verificar no International Office de
@@ -410,17 +433,42 @@ Registrado para tu não gastares tempo nelas:
 
 Vale olhar antes de disputar bolsa, porque no teu caso o obstáculo não é a vaga nem o idioma.
 
-## 5.1 O DSD II já resolve a comprovação de alemão
+## 5.1 O DSD II resolve a comprovação de alemão, mas só a partir de meados de 2027
 
 O **Deutsches Sprachdiplom nível II é reconhecido por todas as universidades alemãs** como
 comprovação de proficiência para ingresso. DSH, TestDaF, a parte de alemão da Feststellungsprüfung
 e o DSD II têm **a mesma validade** para admissão. O DSD II testa nas faixas B2 e C1 e só pode ser
 feito em escolas da rede DSD, cerca de 1.100 no mundo. `[confirmado]`
 
-Links: [Sprachnachweis Deutsch, HRK](https://www.hrk.de/themen/internationales/internationale-studierende-und-forschende/hochschulzugang-fuer-internationale-studierende/sprachnachweis-deutsch/) ·
-[DSD, Kultusministerkonferenz](https://www.kmk.org/kultusministerkonferenz/uebergreifende-themen/das-deutsche-sprachdiplom-der-kultusministerkonferenz.html)
+**Correção de cronograma.** O teu resultado e o teu diploma só chegam em meados do primeiro
+semestre de 2027. Até lá o DSD II não existe como documento, por mais que o nível já esteja lá.
+Isso parte a lista em dois blocos:
 
-Consequência prática: nada de TestDaF, nada de taxa de exame, nada de espera por data de prova.
+- **Inscrições de outubro de 2026 a fevereiro de 2027:** precisam de outra comprovação. Para o
+  DAAD, o onSET-Deutsch a R$ 125,00 ou o DAAD-Sprachnachweis preenchido por examinador resolvem,
+  como está na seção 1.1. Para o Goethe, não há exigência de certificado, apenas de conhecimento
+  suficiente para acompanhar o curso.
+- **Candidaturas de meados de 2027 em diante:** aí o DSD II entra, e com ele desaparecem o
+  TestDaF, a taxa de exame e a espera por data de prova.
+
+**O encaixe que isso cria, e ele é bom.** O prazo padrão de candidatura a universidade alemã pelo
+uni-assist é **15 de julho para o semestre de inverno** e 15 de janeiro para o de verão, com
+recomendação de enviar oito semanas antes, porque a análise leva de seis a dez semanas.
+`[confirmado]` Com o diploma em mãos em meados do primeiro semestre de 2027, dá para candidatar-se
+em **julho de 2027 ao semestre de inverno 2027/2028**, que começa em outubro de 2027. É apertado,
+e é exatamente a mesma janela do PAD e do DAAD Hochschulwinterkurse. Julho de 2027 concentra três
+oportunidades.
+
+Se o resultado atrasar ou vier negativo, as alternativas com data marcada e preço conhecido são o
+Goethe-Zertifikat B2 a R$ 1.580,00 e o C1 a R$ 1.940,00, com desconto para aluno do Goethe, e o
+TestDaF a 155 ou 160 euros. `[secundário]`
+
+Links: [Sprachnachweis Deutsch, HRK](https://www.hrk.de/themen/internationales/internationale-studierende-und-forschende/hochschulzugang-fuer-internationale-studierende/sprachnachweis-deutsch/) ·
+[DSD, Kultusministerkonferenz](https://www.kmk.org/kultusministerkonferenz/uebergreifende-themen/das-deutsche-sprachdiplom-der-kultusministerkonferenz.html) ·
+[formulário DAAD-Sprachnachweis](https://www2.daad.de/medien/ausland/dokumente/daad-sprachnachweis_deutsche.pdf) ·
+[prazos do uni-assist](https://www.uni-assist.de/en/how-to-apply/plan-your-application/deadlines-processing-time/) ·
+[Goethe-Zertifikat C1, Porto Alegre](https://www.goethe.de/ins/br/pt/m/sta/poa/prf/gzc1.html) ·
+[TestDaF no Brasil](https://www.goethe.de/ins/br/pt/sta/rio/prf/testdaf.html)
 
 ## 5.2 Dois anos de graduação no Brasil podem dispensar o Studienkolleg
 
@@ -512,41 +560,115 @@ Link: [bolsas MAECI, governo italiano](https://studyinitaly.esteri.it/) · [Camp
 
 ---
 
-# 8. O que falta para esta varredura ficar completa
+# 8. A tua instituição, e o que ela muda
 
-Uma informação que eu não tenho e que destrava a parte provavelmente mais fácil da lista: **em que
-universidade tu estás matriculado**.
+O ISEI é **credenciado pelo MEC** pela Portaria nº 2.036, de 15 de julho de 2002, com atividades
+desde fevereiro de 2003, e a licenciatura é em **Letras Português e Alemão**. `[confirmado]` Isso
+satisfaz o requisito de matrícula em instituição reconhecida que o DAAD e os demais programas
+exigem, o que não era óbvio e eu precisava confirmar.
 
-A família inteira de programas da seção 4.2 depende dela, e é a família com a concorrência mais
-baixa, porque a disputa é interna e não nacional.
+E o IFPLA não é uma faculdade qualquer para este assunto. Ele muda três coisas.
 
-Dois sinais de que esses editais estão saindo agora, e não em data remota: a UFPR publicou o
-edital 27/2026 de mobilidade internacional de graduação, e o CEFET-MG anunciou 17 bolsas de
-mobilidade para 2027. `[confirmado]` Cada universidade tem o seu próprio calendário, e nenhum
-deles aparece em lista nacional de bolsas.
+## 8.1 O dinheiro alemão já está dentro da tua faculdade
 
-Link: [guia do KA171](https://www.eaie.org/resource/a-guide-to-erasmus-ka171-icm-funding.html)
+O IFPLA **recebe auxílio da República Federal da Alemanha através do Bundesverwaltungsamt e da
+ZfA**, em forma de subsídio para a remuneração dos professores da instituição e para o **pagamento
+das bolsas de estudo oferecidas aos estudantes**. `[confirmado]` O desconto de 90% na mensalidade
+que a instituição divulga vem dessa parceria. `[confirmado]`
 
-Com o nome da universidade eu varro, numa rodada: os editais de mobilidade vigentes, a lista de
-convênios com instituições alemãs, austríacas e portuguesas, os acordos Erasmus+ KA171 em vigor,
-se ela participa do Santander, e se há convênio com alguma universidade na Baviera, que é a
-condição do BAYLAT.
+Consequência: tu não estás pedindo acesso a uma rede alemã, tu já estás dentro dela. Os dois
+programas de maior valor desta lista, o Weiterbildungsprogramm do PAD e o programa da ZfA, se
+decidem exatamente nessa rede, por indicação, e não em concorrência aberta.
+
+## 8.2 Já existe um intercâmbio previsto no teu currículo
+
+Durante a **viagem de estudos de dois meses dos estudantes do 3º ano** do IFPLA, é oferecido um
+**curso de duas semanas na Universidade de Leipzig**, num projeto financiado pelo
+**Gustav-Adolf-Werk**. `[confirmado]` A imprensa local noticiou turma de acadêmicos da Faculdade
+Instituto Ivoti embarcando para a Alemanha em janeiro. `[confirmado]`
+
+Esta é a resposta mais imediata ao teu pedido de um ou dois semestres: parte dele já está prevista
+no teu próprio curso, com financiamento resolvido e sem concorrência nacional. **Primeira coisa a
+confirmar na coordenação:** se essa viagem segue ativa para a tua turma, em que ano ela cai no teu
+caso e qual é o prazo interno de inscrição.
+
+## 8.3 Um ponto a verificar antes de qualquer inscrição
+
+A descrição do programa de bolsas da ZfA no IFPLA que eu encontrei diz que **quem recebe a bolsa se
+compromete a lecionar alemão por no mínimo cinco anos em escolas que precisam de professores de
+alemão**, e que precisa de **aprovação no DSD II no quarto semestre** da formação.
+`[confirmado na fonte, não no teu contrato]`
+
+Se o teu caso é esse, e o teu DSD II em curso sugere que seja, então isso **não atrapalha nada**
+das seções 1 a 4: curso de verão, bolsa do Goethe, formação continuada, viagem de estudos, tudo
+isso é exatamente o que esse programa quer que tu faças. Mas **pode mudar inteiramente** a conversa
+sobre graduação completa na Europa, da seção 2.1 em diante, e sobre os doze meses do PAD.
+
+Isso não se resolve por busca na internet. É pergunta para a coordenação, e é a primeira da fila,
+porque a resposta define se metade deste documento se aplica a ti.
+
+## 8.4 Contatos encontrados
+
+| Quem | Contato |
+|---|---|
+| IFPLA | **ifpla@institutoivoti.com.br** |
+| Coordenação de Língua Alemã do IFPLA | Prof.ª Ms. Catrin Beguhl |
+| Direção do IFPLA | Prof.ª Ms. Darli Reneu Breunig |
+| Bolsas Goethe, região Sul | **stipendien-portoalegre@goethe.de** |
+
+Há ainda um precedente interno que vale mais do que edital: a imprensa local noticiou uma
+**professora de Ivoti que viveu um ano numa escola da Alemanha**. `[confirmado]` Esse é o formato
+do Weiterbildungsprogramm do PAD. Alguém na tua instituição já passou por esse processo inteiro e
+sabe onde ele trava.
+
+Links: [IFPLA](https://www.institutoivoti.com.br/institucional/ifpla) ·
+[Letras Português e Alemão](https://ww2.institutoivoti.com.br/ensino-superior/graduacao/letras-portugues-alemao) ·
+[ISEI no e-MEC](https://emec.mec.gov.br/emec/consulta-cadastro/detalhes-ies/d96957f455f6405d14c6542552b0f6eb/MjE5Mg==) ·
+[professora de Ivoti, um ano na Alemanha](https://odiario.net/noticias/geral/professora-de-ivoti-vive-experiencia-de-um-ano-em-escola-da-alemanha/)
+
+## 8.5 O que o porte da instituição provavelmente elimina
+
+Erasmus+ KA171, Santander Ibero-Americanas e BAYLAT exigem acordo bilateral assinado ou adesão
+institucional. Numa faculdade do porte do ISEI isso é improvável, mas não é impossível, e eu não
+afirmo sem perguntar. Pergunta na coordenação se existe acordo bilateral com alguma instituição
+europeia, e eu encaixo o que houver.
+
+Se não houver nenhum, a **seção 4.1**, a das vias que não dependem da instituição, passa a ser o
+teu caminho principal. E ela não ficou vazia: freemover com STIBET, Studienbörse Germanistik, o
+intercâmbio da IECLB, que é a mesma rede confessional da tua faculdade, mais os dois programas
+abertos agora.
 
 ---
 
-# 9. Os três passos desta semana
+# 9. Os passos desta semana, na ordem
 
-1. **Hoje:** e-mail para **stipendien-portoalegre@goethe.de** pedindo formulário e prazo do ciclo
-   2027, e perguntando se uma bolsa DAAD em 2027 bloquearia a bolsa Goethe depois.
-2. **Hoje ou amanhã:** pedir na secretaria da faculdade o **histórico dos últimos dois anos com
-   notas**, que é o documento que o DAAD exige traduzido e o que mais demora a sair.
-3. **Até 30/10/2026:** carta de motivação e currículo tabular, os dois em alemão, e inscrição no
+1. **Hoje, coordenação do IFPLA:** a pergunta da seção 8.3, sobre o compromisso de cinco anos
+   ligado à bolsa da ZfA, e a da seção 8.2, sobre a viagem de estudos com Leipzig. As duas definem
+   o que vale perseguir e o que não vale.
+2. **Hoje, Goethe de Porto Alegre:** pedir formulário e prazo do ciclo 2027 das bolsas para
+   professores; perguntar se uma bolsa DAAD em 2027 bloquearia a bolsa Goethe depois; e perguntar
+   se há data de **onSET-Deutsch** antes de 30 de outubro.
+3. **Hoje ou amanhã, secretaria:** histórico dos últimos dois anos com notas individuais e
+   certificado de conclusão do ensino médio com notas. Os dois precisam de tradução.
+4. **Esta semana:** fechar a comprovação de idioma, por DAAD-Sprachnachweis ou onSET. Sem ela a
+   inscrição do HSK não é aceita, e o DSD II não chega a tempo.
+5. **Até 30/10/2026:** carta de motivação e currículo tabular, os dois em alemão, e inscrição no
    HSK pelo portal DAAD.
 
-E um item que não tem prazo, mas tem fila: perguntar na coordenação do Ivoti quem é a **Fachberatung
-da ZfA** responsável pela escola. Os dois programas de maior valor para o teu perfil, o
-Weiterbildungsprogramm do PAD e o programa da ZfA, passam por indicação da escola, não por
-formulário aberto.
+Fila paralela, sem prazo mas com tempo de resposta longo: perguntar quem é a **Fachberatung da ZfA**
+responsável pela escola, e procurar a professora que passou um ano na Alemanha.
+
+---
+
+## O calendário que sobra, resumido
+
+| Quando | O que |
+|---|---|
+| **outubro de 2026** | DAAD HSK e bolsa Goethe, as duas únicas janelas abertas |
+| novembro de 2026 a fevereiro de 2027 | Stipendium Hungaricum, Türkiye Bursları, BAYLAT, Holanda |
+| **meados do 1º semestre de 2027** | chega o DSD II, e com ele a admissão direta na Alemanha |
+| **julho de 2027** | três coisas na mesma janela: uni-assist para o inverno 2027/28, PAD Weiterbildungsprogramm 2028 e DAAD HWK |
+| agosto e setembro de 2027 | Tchéquia, para 2028/2029 |
 
 ---
 
