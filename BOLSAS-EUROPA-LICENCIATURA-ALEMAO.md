@@ -38,6 +38,9 @@ busca, não de uma visita direta. Antes de montar documentação, confirmar no s
 | ~22/07/2027 | PAD Weiterbildungsprogramm | professor de escola DSD | 12 meses numa escola na Alemanha |
 | ~31/07/2027 | Governo da Eslováquia | graduação completa | 500 euros por mês, até 15.000 no total |
 | ago a set/2027 | Governo da Tchéquia | graduação completa | fechou em 30/09/2026, quatro dias antes desta varredura |
+| março ou abril | weltwärts Sul-Norte | 18 a 27 anos | 12 meses de voluntariado pago na Alemanha |
+| sem janela fixa | freemover mais STIBET | graduação | 1 ou 2 semestres sem convênio, bolsa pedida no destino |
+| sem janela fixa | intercâmbio IECLB e EKD | jovens da IECLB | estada na Alemanha com tudo pago, via a própria instituição |
 
 ---
 
@@ -274,11 +277,140 @@ Bolsas de cooperação para o desenvolvimento, em universidades públicas tcheca
 
 ---
 
-# 4. O caminho que pode sair mais barato do que uma bolsa
+# 4. Intercâmbio de um ou dois semestres, em detalhe
+
+Esta via se divide em duas famílias, e a diferença entre elas decide tudo: as que passam pela tua
+universidade e as que não passam. Começo pelas que não passam, porque são as que tu podes acionar
+sem depender de edital interno nem de convênio existente.
+
+## 4.1 As que não dependem da tua universidade
+
+### Freemover, ou Gaststudent, numa universidade alemã
+
+É possível candidatar-se direto a uma universidade alemã por um ou dois semestres, sem convênio
+nenhum, na condição de **Gaststudent**, **Austauschstudent**, **non-degree student** ou
+**freemover**, dependendo do nome que cada universidade usa. `[confirmado]`
+
+- **O preço disso:** as exigências para freemover são mais altas do que no intercâmbio por
+  convênio. Documentação mais extensa, **comprovação de idioma mais formalizada**, prazos mais
+  rígidos e antecedência longa de candidatura. `[confirmado]`
+- **Por que, no teu caso, o preço é menor do que para a maioria:** o item que mais derruba
+  candidatura de freemover é exatamente a comprovação formal de idioma, e o teu DSD II já resolve
+  isso, com a mesma validade do TestDaF.
+- **Custo:** universidade pública alemã não cobra mensalidade, apenas a contribuição semestral.
+  O custo real é o visto, portanto o Sperrkonto da seção 5.4.
+- **Prazos:** variam por universidade e não há data nacional. Verificar no International Office de
+  cada uma e no [uni-assist](https://www.uni-assist.de/), que centraliza candidaturas de boa parte
+  delas.
+- **Links de exemplo do formato:** [Freemover e Praktikum, Universität Greifswald](https://www.uni-greifswald.de/international/incoming/austauschstudium/free-mover-und-praktikum/) ·
+  [o que é freemover](https://www.wege-ins-ausland.de/wege-ins-ausland/studieren-im-ausland/freemover-auslandsstudium)
+
+### STIBET, do DAAD, pedido no destino
+
+- **O que é:** Stipendien- und Betreuungsprogramm, dinheiro do Ministério Federal das Relações
+  Exteriores repassado pelo DAAD e **administrado pelo International Office de cada universidade
+  alemã**, para estudantes internacionais já matriculados lá, inclusive os de intercâmbio.
+  `[confirmado]`
+- **Valor:** bolsa parcial de **no mínimo 250 euros por mês**, paga por seis meses. `[confirmado]`
+- **Como se pede:** não existe inscrição central. Pede-se ao International Office da universidade
+  de destino, que tem critérios próprios.
+- **Por que isso importa:** é a bolsa que combina com o freemover. Não cobre tudo, mas muda a
+  conta do semestre, e é o tipo de dinheiro que quase ninguém pede porque não aparece em lista.
+
+### Hermann-Niermann-Stiftung e Universität Würzburg: Studienbörse Germanistik
+
+A única bolsa que esta varredura encontrou desenhada **especificamente para germanística** e com
+formato de um semestre.
+
+- **Formatos:** estadia curta de um a dois meses, **estadia de um semestre**, e financiamento de
+  pós-graduação por um ano, renovável por mais um. `[confirmado quanto aos formatos]`
+- **Ressalva honesta:** a descrição que eu li menciona estudantes de mestrado de destaque,
+  doutorandos e pesquisadores em germanística. **Não confirmei se aceita graduação.** É a primeira
+  coisa a perguntar, e vale perguntar, porque o encaixe temático é exato.
+- **Link:** [ficha na base do DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/?detail=10000171)
+
+### Intercâmbio pela IECLB, com a EKD
+
+A IECLB mantém programa de intercâmbio para jovens em projetos na Alemanha, e o pacote é
+completo: **ajuda de custo mensal, seguros de saúde, acidente, desemprego e responsabilidade
+civil, moradia, alimentação, passagens pagas de ida e volta do Brasil à Alemanha, 26 dias de
+férias e participação em seminários com as organizações parceiras.** `[confirmado]`
+
+- **Campos de atuação:** centros de educação infantil, comunidades e centros sociais, casas para
+  pessoas com deficiência e para idosos. `[confirmado]`
+- **Programa adicional:** IECLB com a Igreja Evangélica Luterana da Saxônia, em duas fases,
+  fevereiro de 2026 no Brasil e **fevereiro de 2027 na Alemanha**, para jovens de sínodos
+  específicos. `[confirmado]`
+- **A EKD também concede bolsas**, mas as que encontrei são para doutorado. `[confirmado]`
+- **Links:** [oportunidade de intercâmbio IECLB](https://www.luterano.org.br/oportunidade-de-intercambio-para-jovens-da-ieclb-alemanha/) ·
+  [programa IECLB e IELS](https://www.luterano.org.br/oportunidade-de-intercambio-ieclb-iels-alemanha/) ·
+  [bolsas da EKD](https://www.luteranos.com.br/noticias/a-ekd-concede-bolsas-de-estudo-para-programas-de-doutoramento-na-alemanha)
+
+**Por que isto está nesta lista mesmo não sendo acadêmico:** não dá crédito e não conta como
+semestre cursado. Mas é estada longa na Alemanha com tudo pago, e é o **único canal da lista
+inteira em que a tua instituição já está dentro da rede**. O Instituto Ivoti é IECLB, e aqui a
+porta se abre por pergunta a uma pessoa, não por formulário em prazo fechado.
+
+### weltwärts, componente Sul-Norte
+
+- **O que é:** doze meses de voluntariado na Alemanha, com partida em março ou abril, custos
+  cobertos, programa do Ministério Federal alemão da Cooperação Econômica e Desenvolvimento.
+  `[confirmado]`
+- **Requisitos:** ter **entre 18 e 27 anos** durante o período do intercâmbio, ser brasileiro
+  residente no Brasil e ter alemão a partir de **A2**. `[confirmado]`
+- **Onde se inscreve no Brasil:** AFS Intercultura Brasil, parceira da organização alemã.
+  `[confirmado]`
+- **Link:** [AFS Intercultura Brasil, voluntariado na Alemanha](https://www.afs.org.br/o-afs-encoraja-o-mundo-a-aprender-a-conviver-em-harmonia/bolsas-de-intercambio/bolsa-parcial-para-intercambio-de-trabalho-voluntario-na-alemanha-2027-1o-semestre/)
+
+**O filtro é a idade.** Se tu passas dos 27, esta porta está fechada e não vale um minuto de
+leitura. Se não passas, é a estada mais barata da lista.
+
+## 4.2 As que dependem da tua universidade
+
+Estas são, muito provavelmente, as mais fáceis de ganhar, porque a concorrência é interna e não
+nacional. Todas exigem a mesma informação que eu ainda não tenho, na seção 8.
+
+| Programa | Valor | Como entra |
+|---|---|---|
+| **Erasmus+ KA171** | **700 euros por mês mais passagem**, de 3 a 12 meses | exige acordo bilateral KA171 assinado entre a tua universidade e a europeia `[confirmado]` |
+| **Santander Ibero-Americanas** | um semestre, ajuda de custo | só para universidades participantes |
+| **Editais próprios de mobilidade** | varia | calendário próprio de cada universidade |
+| **Convênios bilaterais diretos** | normalmente isenção de taxas, sem bolsa | lista de convênios do escritório internacional |
+| **BAYLAT** | até 992 euros por mês, 1 a 5 meses, para o TCC | exige universidade parceira na Baviera |
+
+### Áustria, uma ressalva que evita perda de tempo
+
+O **Joint-Study** e o **Non-EU Student Exchange** das universidades austríacas, Viena incluída,
+são programas para estudantes **das** universidades austríacas saírem, não para entrar. A bolsa de
+250 a 550 euros por mês, mais 200 a 800 euros de viagem, é para o estudante austríaco que vem para
+a América Latina, não o contrário. `[confirmado]`
+
+Para entrar na Áustria por um ou dois semestres, a via é convênio da tua universidade, e sem bolsa
+austríaca. Links: [Joint-Study, Universität Klagenfurt](https://www.aau.at/international/studieren-im-ausland/joint-study/) ·
+[Non-EU Student Exchange, Universität Wien](https://international.univie.ac.at/studierendenmobilitaet/outgoing-students/non-eu-student-exchange-program/)
+
+## 4.3 Portas que eu fechei nesta rodada
+
+Registrado para tu não gastares tempo nelas:
+
+- **UNIBRAL, da CAPES com o DAAD:** era exatamente isto, mobilidade de **graduação** entre Brasil e
+  Alemanha, com aproximação curricular, reconhecimento mútuo de créditos e, no Unibral II, duplo
+  diploma de graduação. **Está descontinuado e não haverá novos editais, por decisão conjunta das
+  agências.** `[confirmado]`
+  [página do programa na CAPES](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/informacoes-internacionais/programas-encerrados-internacionais/unibral)
+- **Grupo Tordesilhas**, rede de universidades do Brasil, Portugal e Espanha: os programas ativos
+  são de **pós-doutorado e de docentes com doutorado**, com prazo em março e estadias de um a três
+  meses na Espanha. Não existe via de graduação. `[confirmado]`
+- **PAD Fremdsprachenassistenzkräfte:** o Brasil não está entre os treze países do acordo
+  bilateral, como já registrado na seção 7.
+
+---
+
+# 5. O caminho que pode sair mais barato do que uma bolsa
 
 Vale olhar antes de disputar bolsa, porque no teu caso o obstáculo não é a vaga nem o idioma.
 
-## 4.1 O DSD II já resolve a comprovação de alemão
+## 5.1 O DSD II já resolve a comprovação de alemão
 
 O **Deutsches Sprachdiplom nível II é reconhecido por todas as universidades alemãs** como
 comprovação de proficiência para ingresso. DSH, TestDaF, a parte de alemão da Feststellungsprüfung
@@ -290,19 +422,19 @@ Links: [Sprachnachweis Deutsch, HRK](https://www.hrk.de/themen/internationales/i
 
 Consequência prática: nada de TestDaF, nada de taxa de exame, nada de espera por data de prova.
 
-## 4.2 Dois anos de graduação no Brasil podem dispensar o Studienkolleg
+## 5.2 Dois anos de graduação no Brasil podem dispensar o Studienkolleg
 
 Com curso superior completo no Brasil, ou **pelo menos dois anos de graduação cursados**, é
 possível ingressar direto, sem Studienkolleg, desde que a proficiência exigida esteja comprovada.
 `[secundário]` O ponto exato depende do teu curso e da universidade de destino, e se confirma na
 [anabin](https://anabin.kmk.org/anabin.html) e no [uni-assist](https://www.uni-assist.de/).
 
-## 4.3 Universidade pública alemã não cobra mensalidade
+## 5.3 Universidade pública alemã não cobra mensalidade
 
 O que existe é a contribuição semestral, em geral entre 100 e 400 euros por semestre. A exceção é
 Baden-Württemberg, que cobra de estudantes de fora da União Europeia. `[secundário]`
 
-## 4.4 O gargalo real é o Sperrkonto
+## 5.4 O gargalo real é o Sperrkonto
 
 Para o visto de estudante é preciso comprovar meios de subsistência por um ano. Em 2026 o valor é
 **11.904 euros, equivalentes a 992 euros por mês**, e **13.092 euros** quando a finalidade é curso
@@ -315,7 +447,7 @@ uma bolsa pequena pode valer mais pelo que ela libera no visto do que pelo valor
 Links: [conta bloqueada, guia](https://www.mygermanuniversity.com/pt/articles/Blocked-Account-Germany) ·
 [valores 2026](https://www.beeasyintercambio.com/dica/conta-bloqueada-na-alemanha-em-2026-valores-como-abrir-e-quanto-poupar)
 
-## 4.5 Áustria e Suíça
+## 5.5 Áustria e Suíça
 
 - **Áustria:** estudantes de países fora da União Europeia pagam **726,72 euros por semestre**,
   mais a taxa da ÖH. `[secundário]` As bolsas da OeAD para vir de fora concentram-se em mestrado,
@@ -326,7 +458,7 @@ Links: [conta bloqueada, guia](https://www.mygermanuniversity.com/pt/articles/Bl
 - **Suíça:** as bolsas federais de excelência são apenas para pós-graduação e pesquisa. Para
   graduação, não há via de bolsa federal. Fora da lista.
 
-## 4.6 Portugal, graduação completa
+## 5.6 Portugal, graduação completa
 
 Não existe bolsa integral do governo português para graduação de estrangeiro. O caminho real é
 somar três coisas: `[secundário]`
@@ -343,7 +475,7 @@ Links: [Concurso Especial, U. Porto](https://www.up.pt/portal/pt/estudar/estudan
 
 ---
 
-# 5. Resposta sobre França, Itália e Espanha
+# 6. Resposta sobre França, Itália e Espanha
 
 Tu condicionaste: se exigir nível de idioma já comprovado, não entra. Verificado, um por um.
 
@@ -362,11 +494,11 @@ Link: [bolsas MAECI, governo italiano](https://studyinitaly.esteri.it/) · [Camp
 
 ---
 
-# 6. Fora da lista, e por quê
+# 7. Fora da lista, e por quê
 
 - **PAD Fremdsprachenassistenzkräfte:** o intercâmbio de assistentes de língua é bilateral, com
   treze países, e **o Brasil não está entre eles**. `[confirmado]`
-  Não confundir com o Weiterbildungsprogramm do item 3.1, do mesmo PAD, em que o Brasil entra.
+  Não confundir com o Weiterbildungsprogramm da seção 3.1, do mesmo PAD, em que o Brasil entra.
 - **KAAD:** bolsas da Igreja Católica alemã, só para pós-graduação e pesquisa, com preferência
   por católicos e prazos em 15 de janeiro e 30 de junho. Não serve para graduação. `[secundário]`
 - **NAWA Banach, Polônia:** apesar do nome aparecer em listas de graduação, o programa é para
@@ -380,31 +512,29 @@ Link: [bolsas MAECI, governo italiano](https://studyinitaly.esteri.it/) · [Camp
 
 ---
 
-# 7. O que falta para esta varredura ficar completa
+# 8. O que falta para esta varredura ficar completa
 
 Uma informação que eu não tenho e que destrava a parte provavelmente mais fácil da lista: **em que
 universidade tu estás matriculado**.
 
-Os programas de intercâmbio de um ou dois semestres quase todos passam pela instituição de origem,
-não por inscrição direta:
+A família inteira de programas da seção 4.2 depende dela, e é a família com a concorrência mais
+baixa, porque a disputa é interna e não nacional.
 
-- **Erasmus+ KA171, International Credit Mobility:** o Brasil é país parceiro, a bolsa é de
-  **700 euros por mês mais passagem**, por 3 a 12 meses, e a condição é que a tua universidade
-  tenha acordo bilateral KA171 assinado com a instituição europeia. `[confirmado]`
-- **Santander Ibero-Americanas:** só para universidades participantes.
-- **BAYLAT:** exige vínculo com universidade parceira na Baviera.
-- **Editais próprios de mobilidade:** existem e estão saindo agora. A UFPR publicou o edital
-  27/2026 para mobilidade internacional de graduação, e o CEFET-MG anunciou 17 bolsas para 2027.
-  `[confirmado]` Cada universidade tem o seu calendário.
+Dois sinais de que esses editais estão saindo agora, e não em data remota: a UFPR publicou o
+edital 27/2026 de mobilidade internacional de graduação, e o CEFET-MG anunciou 17 bolsas de
+mobilidade para 2027. `[confirmado]` Cada universidade tem o seu próprio calendário, e nenhum
+deles aparece em lista nacional de bolsas.
 
 Link: [guia do KA171](https://www.eaie.org/resource/a-guide-to-erasmus-ka171-icm-funding.html)
 
-Com o nome da universidade eu varro os editais vigentes dela, a lista de convênios com instituições
-alemãs, austríacas e portuguesas, e os acordos KA171 em vigor.
+Com o nome da universidade eu varro, numa rodada: os editais de mobilidade vigentes, a lista de
+convênios com instituições alemãs, austríacas e portuguesas, os acordos Erasmus+ KA171 em vigor,
+se ela participa do Santander, e se há convênio com alguma universidade na Baviera, que é a
+condição do BAYLAT.
 
 ---
 
-# 8. Os três passos desta semana
+# 9. Os três passos desta semana
 
 1. **Hoje:** e-mail para **stipendien-portoalegre@goethe.de** pedindo formulário e prazo do ciclo
    2027, e perguntando se uma bolsa DAAD em 2027 bloquearia a bolsa Goethe depois.
